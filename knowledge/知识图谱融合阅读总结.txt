@@ -1,0 +1,47 @@
+问题点：传统的基于文本相似度的实体对齐方法存在处理大规模图谱数据的能力不足、对齐效果差等
+
+
+关键词：实体对齐方法  MGN（本文）  RDGCN    
+
+GCN（忽略实体间存在的关系信息）
+GAT（考虑了实体邻接节点重要性不同）
+RDGCN（将关系作为节点构建新的关系对偶图，捕获邻接节点信息存在提高空间）
+MGN通过使用多种不同的图卷积神经网络模型，对实体的关系信息、邻接结构信息、远距离结构信息、实体语义等信息进行捕获和融合，丰富实体表示中所包含的特征信息
+
+
+
+实体对齐方法：
+
+	传统方法的不足：
+		1.跨语言知识图谱对齐或面对实体的描述形式不统一的情况时，传统的方法将不再合适
+		2.基于文本相似度的对齐方法通常还存在对齐效率不高，应对大规模知识图谱的能力不足
+	基于实体表示方法的不足：
+		存在实体表示中特征信息不足的问题
+
+
+MGN：
+
+	解决问题：
+		1.异构同指问题
+			邻居信息缺失(预先对齐邻居节点)
+		2.同构异指问题
+			关系信息缺失（将关系进行建模，构造关系对偶图）RDGCN
+			语义信息缺失（使用预先训练好的实体向量表示）
+
+	核心思路：
+		通过预先对齐的邻居节点提高对异构共指的两个中心节点的识别能力
+		通过使用多模型，对实体的不同特征信息进行捕获，然后进行相应的聚合操作。在最后得到的实体表示中实现对实体结构、语义、关系信息的聚合，从而达到丰富实体表示所包含的特征信息的目的，为实体对齐提供更加准确的实体表示向量
+
+
+参考资料
+
+
+1. 基于图神经网络的知识图谱研究进展（知乎：https://zhuanlan.zhihu.com/p/215854124?utm_source=wechat_timeline）
+
+2. 基于图神经网络的实体对齐研究综述（知网：https://kns-cnki-net-443.e1.buaa.edu.cn/KXReader/Detail?TIMESTAMP=637498437591175234&DBCODE=CJFD&TABLEName=CJFDLAST2020&FileName=XDJS202009009&RESULT=1&SIGN=2qBOWcB9AVNp8dLByg9HbVWgjfU%3D）
+
+3. 实体对齐简介（CSDN：https://blog.csdn.net/weixin_41753316/article/details/110184989?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control&dist_request_id=f6b8efc2-f986-4167-92b6-6b0cdef44b63&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-3.control）
+
+4. 图神经网络综述（CSDN：https://blog.csdn.net/m0_38031488/article/details/88414320）
+
+5. B站上GNN、GCN视频详解
