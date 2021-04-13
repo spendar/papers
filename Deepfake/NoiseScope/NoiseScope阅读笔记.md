@@ -42,5 +42,20 @@ Annual Computer Security Application Conference（ACSAC）2020
 
 ## 实验结果
 
+### 数据集构成
+
+![数据集](./datasets.png)
+
+### baseline与NoiseScope实验对比
+
+![test](./test1.png)
+
+![test](./test2.png)
+
+![test](test3.png)
+
 ## 总结
 
+* 分析了GAN模型生成图片所留下的特定噪声空间模式
+* 提出了无监督的NoiseScope盲检模型
+* 通过大量实验，证明了NoiseScope模型的有效性
