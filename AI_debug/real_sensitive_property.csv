@@ -1,0 +1,2478 @@
+index,age,gender,dominant_race
+/home/spendar/Desktop/fairness/real/R_FFHQ_01057.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03255.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00436.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00426.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00341.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00566.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00453.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02611.png,37,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00497.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03374.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02301.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00384.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00244.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02706.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00510.png,23,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03481.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02029.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00280.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01794.png,27,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02284.png,26,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03015.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00209.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02422.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02060.png,24,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02379.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03377.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01582.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00689.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01557.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00682.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01399.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02311.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02903.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01889.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01678.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03495.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00581.png,40,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00701.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02134.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01712.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02557.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02656.png,23,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03219.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03179.png,50,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00810.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03298.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02677.png,45,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03176.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01847.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02454.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02421.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01189.png,49,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03024.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02826.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00469.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02344.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00630.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03404.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03014.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00206.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01217.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00585.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03405.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01971.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03305.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00549.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02388.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01703.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02946.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00111.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00018.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02712.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02275.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02680.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01596.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02441.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02989.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03286.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03265.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03333.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00493.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02874.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02747.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01132.png,42,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01984.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01139.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02688.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01177.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01126.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02952.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03463.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00852.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02679.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00564.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01796.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03480.png,21,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03213.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03105.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01338.png,38,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01099.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00230.png,20,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01910.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02522.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01605.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01360.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02558.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03099.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00899.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02916.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00437.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03171.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03234.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02062.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02013.png,22,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01112.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01791.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02738.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01637.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02188.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00398.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00347.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01915.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00767.png,39,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02992.png,23,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01090.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01531.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02132.png,38,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01771.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01227.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03451.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02763.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01075.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00431.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02570.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03340.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00030.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02501.png,35,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00985.png,35,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02196.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00574.png,35,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03075.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02732.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00896.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03440.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01285.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02385.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02153.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01002.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02771.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02101.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01701.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02827.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03114.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01682.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02650.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01239.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01202.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00644.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02136.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03325.png,24,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00231.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00824.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02894.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01386.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02674.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03026.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01584.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01044.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03420.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02427.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01377.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02736.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02864.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01869.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00396.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02120.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00814.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01501.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00496.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00577.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02374.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01884.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01068.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02322.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03379.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01819.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01492.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02699.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02216.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02405.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01315.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00157.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00784.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03332.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02854.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00242.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02495.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02646.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02544.png,36,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02097.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00922.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00750.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02298.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00777.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02950.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01392.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00843.png,21,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01868.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00062.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01125.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02997.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02911.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01218.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03182.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01389.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02975.png,36,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00857.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00903.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00559.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00525.png,29,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01526.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02079.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01355.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02940.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02530.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01661.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01441.png,20,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00793.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00695.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02669.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02181.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01302.png,30,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01576.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02265.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01864.png,22,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03433.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00309.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02872.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00418.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00783.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01975.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03029.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02983.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00864.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00214.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00522.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02475.png,29,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01710.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02123.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01237.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02164.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01207.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00848.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02497.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02836.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01509.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01586.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02758.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03100.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03369.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03399.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03289.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00578.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00097.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00748.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02663.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00031.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01050.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02357.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01153.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01098.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01649.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00277.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00259.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01928.png,46,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00267.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02141.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02320.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02001.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00740.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02802.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01213.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01885.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01066.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02292.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01867.png,43,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02817.png,47,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00794.png,39,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01091.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02917.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01170.png,39,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03478.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03354.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01739.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03003.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02595.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03312.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00915.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02426.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00667.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03062.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00419.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02482.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02417.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00422.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02986.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02005.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00868.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01358.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03461.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01144.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01477.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00168.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02476.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01069.png,33,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01191.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00256.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01183.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01146.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00115.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02626.png,51,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00015.png,23,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01900.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00609.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03200.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02131.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01221.png,28,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00435.png,38,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00801.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03184.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01219.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00939.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03445.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02175.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02061.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00451.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03101.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00823.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00809.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00911.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00629.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00516.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03425.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00133.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00752.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01781.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00166.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00357.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02398.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03079.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01563.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02152.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01921.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03279.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01317.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02779.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03353.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02035.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01843.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02112.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03165.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02492.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01777.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00882.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01937.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00831.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00560.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02948.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02810.png,22,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03146.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02259.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02891.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03331.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00343.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00880.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00175.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00782.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02847.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00048.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02550.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03153.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03386.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02622.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00187.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02074.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00151.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02769.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00128.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01320.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01550.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02337.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02117.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02919.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03274.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00414.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02629.png,41,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00877.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01607.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00706.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01581.png,49,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03319.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03370.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01542.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01695.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02980.png,51,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01478.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01634.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02500.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02177.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03205.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00582.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01913.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01530.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01225.png,21,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03158.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02391.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01428.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01811.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01764.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03190.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00123.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02737.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00095.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03132.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01052.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02347.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02099.png,26,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01368.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00336.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02757.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02191.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00600.png,45,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01224.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01415.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01387.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01308.png,23,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03198.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01416.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02103.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02897.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02910.png,23,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00681.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00011.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00074.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02635.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02271.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03352.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00668.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00957.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03492.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01447.png,35,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00983.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01853.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02108.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02316.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00989.png,26,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01569.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02230.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02214.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02717.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02750.png,40,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02047.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00781.png,30,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01097.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01997.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01724.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02848.png,46,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02716.png,27,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00687.png,40,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00281.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00412.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01944.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02518.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03338.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00001.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03267.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02583.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03490.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03236.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00722.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01220.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00428.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02313.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00680.png,48,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02780.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00093.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00812.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01783.png,40,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02608.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02549.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00266.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00297.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01046.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02167.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00390.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00295.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01744.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00250.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01072.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01321.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03376.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00324.png,48,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02116.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03259.png,34,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01121.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01544.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00358.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00829.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00697.png,25,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00257.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03245.png,40,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03421.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02678.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00738.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00288.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00057.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03199.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03294.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02877.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03191.png,46,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01807.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01248.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01138.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02448.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03096.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01844.png,35,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00276.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02867.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02987.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03457.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02978.png,41,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01341.png,39,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02439.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01539.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02617.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02806.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01548.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01089.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00655.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00987.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00982.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01723.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02659.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03299.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03070.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00686.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02809.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02140.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01955.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01996.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00171.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00511.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00536.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00322.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00049.png,40,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01769.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03448.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01037.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00335.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02963.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02935.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03209.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00890.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00978.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02977.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01390.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00249.png,30,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03371.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02538.png,38,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02882.png,39,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02319.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01304.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03027.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01278.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00272.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01314.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03001.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02580.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00282.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00657.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02590.png,30,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02664.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02944.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01836.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01336.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01353.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03046.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03013.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02578.png,34,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00067.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01058.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00994.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00047.png,33,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00515.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02204.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00020.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02846.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01677.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00320.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01435.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02655.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00056.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00235.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02253.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03470.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00050.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02925.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02546.png,27,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01667.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01748.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01628.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01535.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01788.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03012.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02728.png,31,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01632.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01906.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03429.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02753.png,20,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00134.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02207.png,42,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01676.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03055.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02229.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01805.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03320.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01065.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01697.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00705.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01662.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02418.png,41,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02751.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01941.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01721.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00204.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03089.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01904.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03067.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00392.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02183.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03057.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00129.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00858.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00590.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00352.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02089.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03011.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03085.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00785.png,27,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01947.png,49,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03375.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01035.png,52,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02209.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01032.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02345.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00641.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01892.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01559.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01175.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01023.png,38,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00672.png,41,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01003.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03335.png,34,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00991.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00688.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03054.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00086.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02541.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01104.png,28,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02968.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02675.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00808.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00558.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02939.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02336.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00433.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03381.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00137.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02813.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01917.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03438.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01859.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01274.png,39,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01402.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01626.png,33,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02523.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02256.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02923.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02063.png,37,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01012.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00967.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02373.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02619.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02215.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00735.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03061.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02648.png,33,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00005.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02281.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01686.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01412.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02860.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02863.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03094.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02591.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01993.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00237.png,40,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00241.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00227.png,37,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02303.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01644.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00828.png,46,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00527.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01343.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03216.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01525.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03148.png,38,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00955.png,27,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02066.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01823.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01476.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02938.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02341.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00389.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01958.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00604.png,36,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01056.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02186.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03278.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03111.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02503.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03197.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01709.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01862.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01585.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00254.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00898.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00380.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03058.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01797.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03104.png,26,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00188.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00126.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01658.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01545.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01812.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01957.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01438.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01334.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02927.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01623.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01927.png,21,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01388.png,32,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02574.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02586.png,30,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02408.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00164.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00907.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01940.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02146.png,28,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02004.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00150.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03065.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00786.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03138.png,40,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02041.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00098.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00258.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01148.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02026.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00053.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03310.png,22,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02973.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00119.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02799.png,40,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00238.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01064.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01893.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01264.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02481.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00113.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01020.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02002.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00554.png,40,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02343.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02556.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01731.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03264.png,41,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03270.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00573.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03471.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02644.png,52,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02334.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01981.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02287.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01972.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00307.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02645.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01877.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02496.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02985.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03383.png,37,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03009.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02667.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02032.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00012.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02933.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02880.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02295.png,42,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02368.png,30,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00500.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03187.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01564.png,32,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02511.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00704.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03398.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01851.png,41,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01034.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00935.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00833.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02213.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01527.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01533.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02924.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02856.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00479.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00850.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02305.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03342.png,46,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01241.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01136.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00368.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00021.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03028.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00400.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01116.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02862.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00720.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02837.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00323.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02703.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00092.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01942.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02129.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02734.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01483.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01616.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03427.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02267.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03228.png,45,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02057.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01205.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00737.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03016.png,20,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02000.png,43,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02369.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02445.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02797.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03403.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03103.png,27,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00236.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02111.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01133.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01873.png,59,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03341.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01060.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03049.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01998.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00222.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00576.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00834.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00710.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00768.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00568.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02308.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02691.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03181.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01512.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01299.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02710.png,42,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02104.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00660.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03295.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00218.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02243.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00381.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02562.png,42,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01799.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00189.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01255.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02293.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02300.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03483.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01235.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03346.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01516.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01751.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01745.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01124.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01242.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03260.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01746.png,21,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00728.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02525.png,24,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01622.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02404.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01474.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03211.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01992.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02605.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03139.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02346.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00208.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00892.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02201.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01787.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03170.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02536.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01523.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02115.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00318.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01742.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01879.png,41,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01409.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00432.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01279.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02231.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00159.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02907.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03247.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01403.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01880.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02795.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02376.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03452.png,38,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00355.png,36,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01319.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03140.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00593.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01070.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03244.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02959.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00555.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02270.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00904.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00538.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02042.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00260.png,33,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00127.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02339.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01848.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00147.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00575.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02896.png,37,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01047.png,23,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03444.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00524.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02884.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01378.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02461.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00631.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02631.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01716.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02059.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02866.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00919.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02759.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03048.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00094.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03090.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03155.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03225.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02378.png,50,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02906.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00099.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01536.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01692.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00217.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01529.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00155.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02913.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02548.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02362.png,41,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01479.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01583.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02936.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00058.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03330.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02551.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02904.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02791.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00744.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01747.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00860.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01277.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02999.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01244.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01675.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02630.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02297.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03435.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00196.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00275.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01303.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01344.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03468.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02172.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02449.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02160.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02170.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00825.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00300.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03417.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00447.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01005.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00956.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02244.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01322.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03185.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01507.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03409.png,30,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03007.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02599.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03164.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01977.png,21,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00284.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01590.png,32,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02023.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02539.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01732.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01025.png,42,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03040.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03073.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02317.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01004.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02377.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02487.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02122.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01532.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00614.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00221.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01137.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03086.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01690.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02692.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02764.png,40,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01289.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00929.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00598.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02479.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00225.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01673.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03356.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02998.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01654.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02048.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00986.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01496.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00764.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01842.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01282.png,35,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00826.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01574.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01711.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02234.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01318.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01359.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03071.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01424.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00459.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01767.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00290.png,27,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01142.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02785.png,28,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02037.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02676.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01672.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03428.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01960.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02609.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01845.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02163.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02019.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02467.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02051.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00709.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01680.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01484.png,36,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02185.png,34,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03276.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00656.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02733.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01983.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01978.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00971.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00311.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02890.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01306.png,26,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00685.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01881.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01508.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03315.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02755.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00508.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01948.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00861.png,32,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03442.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01776.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02069.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02361.png,41,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03318.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00965.png,42,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01129.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01491.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01866.png,39,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00310.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00905.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02056.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03023.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02272.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03064.png,38,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02517.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00350.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03174.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02993.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02264.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02967.png,25,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02790.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01980.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00717.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03316.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01795.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01621.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02926.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00817.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02187.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01487.png,24,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01067.png,51,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02435.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00245.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01954.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02247.png,39,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00438.png,41,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01187.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02606.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00818.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00620.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00661.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02943.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00331.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02607.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00972.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02147.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01029.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01505.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02009.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03449.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00651.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00371.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03254.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00040.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02793.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03212.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01593.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01332.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02888.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01936.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03127.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00141.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01245.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03239.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02261.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02472.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00556.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01192.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02384.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01500.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03416.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00104.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00805.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02534.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00329.png,41,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02647.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03172.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02778.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03126.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02673.png,21,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01770.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02921.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00879.png,22,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01109.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02350.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00703.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01808.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02407.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00182.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03290.png,38,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00264.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00569.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03123.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02239.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01693.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01707.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03389.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00386.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03240.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01324.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01514.png,45,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03194.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00313.png,38,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00663.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03281.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01223.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01263.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00628.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01453.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03210.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03322.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00346.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03074.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03059.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01427.png,30,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01933.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01603.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02805.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00509.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02508.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01964.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03150.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00583.png,21,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01916.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00550.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03032.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01946.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02036.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03296.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01374.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02787.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01154.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00406.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00490.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00827.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03266.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03498.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02095.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01127.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03008.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02956.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00937.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02885.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01350.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03147.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00441.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00973.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00425.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01785.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01896.png,40,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01831.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00654.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00316.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00319.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00410.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01872.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01188.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01462.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03432.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00167.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00393.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01488.png,27,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01849.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02596.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00026.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01968.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03306.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01665.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02030.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00612.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00638.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02687.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02533.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01095.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00541.png,37,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01118.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00073.png,37,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03033.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00756.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03168.png,36,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00841.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00761.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01418.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02886.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02824.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02834.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03118.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03431.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02266.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01698.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01663.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02494.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02462.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03002.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01547.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03042.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01309.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01431.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02173.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02412.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02722.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03424.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00468.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01270.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01371.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03459.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01728.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03436.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02510.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00037.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00780.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01608.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00954.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00105.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00439.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00243.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00399.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00365.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01006.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01871.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00503.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02701.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01156.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01053.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01383.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03082.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02870.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00835.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03206.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00299.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03351.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00340.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03418.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01166.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00081.png,34,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01169.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01463.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01007.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02696.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01443.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02458.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02011.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02831.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00754.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02161.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01513.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01925.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01497.png,44,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00611.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00946.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02947.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01565.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00348.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01410.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03368.png,45,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01886.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03231.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03275.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00984.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00440.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03285.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03238.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03487.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02524.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02689.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02206.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02473.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02269.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02390.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03163.png,27,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01614.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03488.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00675.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02521.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02396.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01381.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02109.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02083.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01832.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00423.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02255.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00813.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02159.png,25,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00845.png,39,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02709.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02702.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02324.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00391.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01517.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01215.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02563.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02665.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02105.png,38,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01113.png,43,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01727.png,42,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00395.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01633.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02413.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02133.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02972.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01578.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01176.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01114.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00888.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01878.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02654.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01209.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00233.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01982.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02979.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02289.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02442.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01589.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02612.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02444.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03439.png,31,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01031.png,29,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02157.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02227.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00351.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03380.png,34,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00531.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02597.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00071.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00953.png,29,Woman,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02358.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00747.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03087.png,39,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01779.png,38,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01028.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00265.png,38,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01572.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01486.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02731.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02932.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02055.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02786.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01931.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00325.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03076.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01688.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02945.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03166.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01357.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00840.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00345.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00044.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03246.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00059.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03151.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00528.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03366.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00455.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03047.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01151.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02245.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01061.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02018.png,43,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01196.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02929.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02658.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02068.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01522.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00460.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02249.png,27,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01292.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02440.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01228.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01281.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02420.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03098.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01876.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02532.png,30,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00462.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01506.png,43,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01715.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03131.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02766.png,25,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00699.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02240.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01720.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00387.png,44,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01461.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00964.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02858.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01963.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00979.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03159.png,54,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01784.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00665.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01803.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01212.png,33,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00523.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01234.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01883.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01472.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02210.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01362.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01537.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03453.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01945.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00713.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00354.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02584.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00760.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00017.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00461.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00172.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01752.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00745.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01631.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02086.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00975.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02151.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02499.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00144.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01160.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02720.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01679.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00875.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02096.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01635.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00775.png,46,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00658.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02684.png,51,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02576.png,33,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02312.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02690.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00482.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02507.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01907.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00476.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01643.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02990.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03017.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00650.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01485.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03385.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00504.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00383.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01401.png,45,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01351.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01806.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01252.png,27,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01471.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00616.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01055.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02566.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02100.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02984.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03235.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02414.png,42,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00401.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00981.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02348.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00588.png,23,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02901.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01668.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00136.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00895.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02460.png,34,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00621.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02456.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02788.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00678.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01411.png,52,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02559.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00271.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00893.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02429.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01567.png,34,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03088.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00947.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02119.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02015.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03116.png,38,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01014.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02430.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00417.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01782.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00751.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01290.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02394.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01670.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02148.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02423.png,26,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01577.png,47,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01495.png,28,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00379.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02113.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01422.png,53,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00234.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01436.png,50,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00887.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00162.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01615.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01288.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00863.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01178.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01887.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01734.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00007.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00070.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01540.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00475.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00367.png,25,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01681.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01038.png,25,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00186.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02852.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01135.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01185.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00010.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01257.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01026.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02296.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00303.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00203.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01157.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03301.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00079.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01861.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03221.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00211.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02561.png,36,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02169.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02700.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02949.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02965.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00077.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02154.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01729.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02613.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02794.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00849.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02280.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01430.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02286.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00625.png,29,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00673.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00866.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00912.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01762.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00816.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02914.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02340.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00229.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01520.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02354.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01186.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00342.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00913.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02960.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02991.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02242.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02360.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02573.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01294.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01741.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01272.png,39,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02446.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00884.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02468.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00822.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02453.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03223.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01167.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03038.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00789.png,43,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01753.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02457.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01908.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00108.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01620.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00627.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02194.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00837.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00378.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01482.png,39,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00659.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02560.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02835.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01857.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02225.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02238.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02236.png,46,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03384.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03072.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01230.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00131.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00936.png,28,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02840.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00716.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02258.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01366.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00820.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00552.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02080.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03410.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03180.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01890.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00507.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02672.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02274.png,38,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00306.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03000.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00090.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02602.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01793.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01558.png,25,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00270.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02078.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03010.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03149.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00931.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01780.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01145.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02491.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01376.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01296.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02529.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01258.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01534.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02808.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02333.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02514.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02994.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01421.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02838.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02781.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02419.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01384.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01086.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01560.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01902.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00397.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01448.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00321.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01373.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03092.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00572.png,38,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01083.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00865.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01354.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00874.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03186.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03462.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00512.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01991.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00124.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02625.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03269.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02803.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00220.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00456.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01253.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01105.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01818.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03050.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01995.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02166.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02034.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02908.png,31,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02618.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02263.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00361.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00790.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03323.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03271.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02598.png,22,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01184.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00305.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00251.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02748.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02276.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03141.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02156.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02697.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02205.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01260.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00966.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03173.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01926.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01846.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02783.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03365.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03388.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00458.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03443.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00191.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00723.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03349.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03006.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01652.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00405.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03367.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02652.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00742.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00607.png,43,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02741.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00746.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00719.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00755.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00125.png,46,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01158.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00930.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01039.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00106.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00228.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00934.png,39,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00002.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02537.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03302.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00424.png,23,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01642.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03347.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02535.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02792.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02796.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02749.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02969.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02610.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02431.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02179.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02966.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02220.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01856.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01328.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00676.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00421.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01085.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02526.png,23,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02686.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03043.png,34,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01683.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01043.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03227.png,22,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00997.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00247.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01016.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02568.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00597.png,27,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01267.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00980.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03044.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02326.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02729.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01705.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01591.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02087.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01473.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03097.png,53,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01456.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00317.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03437.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01625.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00649.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02782.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02046.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01835.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02149.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02065.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02121.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00563.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02587.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01467.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00708.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00529.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00326.png,45,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02395.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00815.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01179.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02235.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00565.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00442.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00481.png,28,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01298.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03110.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03284.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02451.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00252.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00042.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00526.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02400.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01840.png,36,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01417.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02821.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01027.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02072.png,26,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01920.png,22,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01238.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01760.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02364.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03031.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00304.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00072.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03018.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01333.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01894.png,38,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00851.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00212.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03401.png,39,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01194.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02540.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00075.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02171.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00176.png,42,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01938.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00530.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02616.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03193.png,40,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00591.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00727.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01640.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02777.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03208.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01647.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00246.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00521.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01088.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02189.png,39,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02895.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03112.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00567.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02698.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02356.png,45,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01243.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01664.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01246.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02509.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01804.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01999.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02639.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00076.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00372.png,35,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01120.png,27,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02642.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01499.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00729.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00832.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00286.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01326.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01161.png,48,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02382.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01543.png,36,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00301.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03237.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02352.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00149.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02076.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03372.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01276.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03145.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03282.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00332.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02434.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01897.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02137.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02498.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01953.png,39,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01082.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02628.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02490.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03419.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00478.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01914.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00518.png,34,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02727.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01051.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00483.png,28,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01393.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02375.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01919.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00492.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00543.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00444.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00019.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01450.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02363.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02233.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02180.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01656.png,52,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01830.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00653.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03434.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01284.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02053.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01087.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03455.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03128.png,24,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00996.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01852.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02614.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00921.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01660.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01598.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00639.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01922.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00373.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02371.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00027.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02158.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00064.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02814.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00499.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03496.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01325.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01048.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01432.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02892.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03207.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02849.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00215.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02842.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01588.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02954.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00207.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00402.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02740.png,45,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01601.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02386.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02632.png,32,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02542.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01206.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00532.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02552.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01765.png,42,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01706.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01380.png,25,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02772.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00928.png,38,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03348.png,35,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00819.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03497.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01979.png,30,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01080.png,31,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01074.png,30,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01254.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01597.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01580.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03143.png,31,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02257.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01911.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00200.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02730.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02735.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01406.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00739.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02666.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02282.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01130.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01655.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01481.png,34,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01950.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00452.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03080.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01231.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00420.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03494.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02218.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00691.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01017.png,43,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02920.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00677.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02025.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02974.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02130.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_03056.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02745.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01949.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01627.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01081.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00993.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01860.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01339.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03022.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01700.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00637.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02268.png,46,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01865.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02142.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01636.png,34,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02715.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00142.png,44,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00427.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00562.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02695.png,49,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01737.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00603.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01465.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03327.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01018.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03248.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01150.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01045.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02107.png,39,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01774.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01704.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02017.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03078.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00643.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01594.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02464.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01275.png,24,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00731.png,45,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02478.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02593.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01758.png,31,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01348.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01939.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02403.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02898.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01468.png,22,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01369.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00632.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03189.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00599.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00698.png,23,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02285.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03396.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01434.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03491.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03019.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02841.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00924.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01365.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03066.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00363.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00901.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03469.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01093.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01809.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01280.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01200.png,43,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00477.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00995.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00773.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03004.png,41,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00774.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00926.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00287.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00800.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00023.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02039.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01449.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01408.png,42,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00052.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00004.png,22,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03460.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03102.png,45,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00707.png,39,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02996.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01566.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00652.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00239.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00302.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01538.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02232.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01595.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02668.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00539.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03203.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01903.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02038.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02881.png,40,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01504.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02589.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02671.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03397.png,33,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00029.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03447.png,33,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00635.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01612.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02307.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02459.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01638.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00413.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01110.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00445.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02512.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02387.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02260.png,32,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02515.png,39,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03226.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01261.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02660.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00201.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00486.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01639.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01768.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03339.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01888.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00140.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02389.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00278.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01722.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01952.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00145.png,41,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02365.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03195.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01419.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02399.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03382.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03045.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03232.png,27,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03204.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02251.png,33,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02329.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03108.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00807.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00766.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00041.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00143.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00489.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01562.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00753.png,29,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01546.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00472.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01312.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02832.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01604.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00181.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01976.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00470.png,26,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01974.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00662.png,36,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00587.png,24,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03020.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02424.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03021.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02438.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01766.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01102.png,34,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00886.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00570.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02718.png,30,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02110.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00811.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01429.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02912.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03283.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02366.png,26,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02995.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00169.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02283.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02961.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01826.png,48,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02714.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00885.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01568.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01575.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00293.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01657.png,40,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00138.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01115.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00337.png,26,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03175.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02724.png,22,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01956.png,23,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01193.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00261.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01874.png,29,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00314.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01689.png,37,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00219.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02812.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01197.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00537.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00174.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00796.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00298.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02857.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01759.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02565.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02571.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00580.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00117.png,22,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00156.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02670.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02909.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01307.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01092.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01452.png,32,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01555.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01685.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03084.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03218.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01556.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00409.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00158.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01168.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03188.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02028.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02579.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01454.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02804.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00950.png,24,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01262.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00949.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01305.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03489.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02594.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01618.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03152.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02962.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01989.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01152.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00449.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00542.png,47,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02223.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02184.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02392.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03411.png,30,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01041.png,29,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01211.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01966.png,23,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01756.png,37,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01426.png,39,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00006.png,25,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02719.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01397.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03261.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02964.png,28,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01022.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00797.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00853.png,32,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01986.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00718.png,43,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02125.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02637.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03041.png,38,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00878.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00838.png,26,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01283.png,41,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02726.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01515.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00873.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01606.png,30,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02071.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01313.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00082.png,36,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00854.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01524.png,31,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00951.png,33,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02937.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02615.png,47,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02480.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01364.png,24,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02226.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01833.png,32,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02237.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03344.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00623.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03229.png,21,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02869.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03243.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01404.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01775.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01571.png,36,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03134.png,26,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00016.png,28,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02314.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03287.png,27,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01310.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03220.png,29,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00248.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01464.png,25,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00770.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02052.png,34,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00163.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00055.png,31,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00454.png,29,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02470.png,34,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00110.png,26,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01475.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01199.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02800.png,33,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00589.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03202.png,30,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03358.png,31,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01423.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00114.png,28,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01858.png,25,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02875.png,42,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00561.png,43,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00871.png,29,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00096.png,27,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01331.png,31,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01024.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03292.png,28,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02127.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02106.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03406.png,33,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02746.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01165.png,24,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03423.png,25,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02601.png,26,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03117.png,29,Woman,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00942.png,30,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02871.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00034.png,48,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00334.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00255.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02406.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01503.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_01222.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01247.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00799.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01460.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00992.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02633.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00646.png,37,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_03363.png,35,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00091.png,28,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01033.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00103.png,32,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02455.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01073.png,30,Man,indian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00161.png,32,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_00415.png,32,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_01271.png,25,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03393.png,25,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00914.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02252.png,39,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02555.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00933.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01824.png,25,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00736.png,30,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03273.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03392.png,32,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01763.png,28,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_00891.png,27,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_03183.png,22,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01687.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00618.png,31,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00240.png,32,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02761.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01395.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02291.png,32,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_03077.png,36,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00370.png,35,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_00078.png,42,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02744.png,46,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_03458.png,37,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01346.png,28,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02304.png,48,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01624.png,21,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00213.png,35,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00446.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01356.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00466.png,26,Man,middle eastern
+/home/spendar/Desktop/fairness/real/R_FFHQ_02310.png,24,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00715.png,35,Man,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_02349.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02443.png,29,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01619.png,29,Woman,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_01810.png,26,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02815.png,42,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00197.png,38,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01385.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01630.png,45,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_02819.png,34,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01103.png,29,Woman,black
+/home/spendar/Desktop/fairness/real/R_FFHQ_00502.png,23,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00917.png,31,Woman,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_01521.png,35,Man,latino hispanic
+/home/spendar/Desktop/fairness/real/R_FFHQ_02657.png,25,Man,asian
+/home/spendar/Desktop/fairness/real/R_FFHQ_02694.png,33,Woman,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_01337.png,27,Man,white
+/home/spendar/Desktop/fairness/real/R_FFHQ_00830.png,33,Man,middle eastern
